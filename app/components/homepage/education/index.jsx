@@ -17,6 +17,7 @@ function Education() {
         height={795}
         className="absolute top-0 -z-10"
       />
+      <h1></h1>
       <div className="flex justify-center -translate-y-[1px]">
         <div className="w-3/4">
           <div className="h-[1px] bg-gradient-to-r from-transparent via-violet-500 to-transparent  w-full" />
